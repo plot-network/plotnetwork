@@ -15,3 +15,5 @@ PlotBridge is a gateway/bridge between various plot-based blockchain networks (P
         Currently supported smart chains:
 
             Binance Smart Chain (BSC)
+
+We are always in the process of improving to provide a better user experience, so stay tuned.

@@ -6,7 +6,7 @@ theme = "loveit"
 
 # website title
 # 网站标题
-title = "PlotBridge"
+title = "Plot Network"
 # whether to use robots.txt
 # 是否使用 robots.txt
 enableRobotsTXT = true
@@ -29,7 +29,7 @@ enableEmoji = true
     # default amount of posts in each pages
     paginate = 12
     # [UA-XXXXXXXX-X] google analytics code
-    googleAnalytics = ""
+    googleAnalytics = "294975398"
     # copyright description used only for seo schema
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
     # Menu config
@@ -54,24 +54,13 @@ enableEmoji = true
         title = ""
         weight = 2
       [[languages.en.menu.main]]
-        identifier = "guide"
-        name = "Guide"
-        url = "/guide/"
-        title = ""
-        weight = 3
-      [[languages.en.menu.main]]
-        identifier = "faq"
-        name = "FAQ"
-        url = "/faq/"
-        weight = 4
-      [[languages.en.menu.main]]
-        identifier = "tokens"
+        identifier = "projects"
         pre = ""
         post = ""
-        name = "Tokens"
-        url = "/tokens/"
+        name = "Projects"
+        url = "/projects/"
         title = ""
-        weight = 5
+        weight = 3
       [[languages.en.menu.main]]
         identifier = "contact"
         pre = ""
@@ -79,16 +68,16 @@ enableEmoji = true
         name = "Contact"
         url = "/contact/"
         title = ""
-        weight = 6
+        weight = 4
     [languages.en.params]
       # site description
-      description = "Connect Plot Farmers to DeFi"
+      description = "A rising network"
       # site keywords
-      keywords = ["Plot", "DeFi", "bridge", "chia", "chives"]
+      keywords = ["Plot", "network", "bridge", "chia", "chives"]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "PlotBridge"
+        title = "Plot Network"
         # whether to omit favicon resource links
         noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
@@ -132,9 +121,9 @@ enableEmoji = true
           # URL of avatar shown in home page
           avatarURL = "/images/big-logo.svg"
           # title shown in home page (HTML format is supported)
-          title = ""
+          title = "Plot Network"
           # subtitle shown in home page
-          subtitle = "Connect Plot Farmer to DeFi"
+          subtitle = "wellcometo plot network <br> A rising network company serving the blockchain"
           # whether to use typeit animation for subtitle
           typeit = true
           # whether to show social links
@@ -190,24 +179,13 @@ enableEmoji = true
         title = ""
         weight = 2
       [[languages.zh-cn.menu.main]]
-        identifier = "guide"
-        name = "使用指南"
-        url = "/guide/"
-        title = ""
-        weight = 3
-      [[languages.zh-cn.menu.main]]
-        identifier = "faq"
-        name = "常见问题"
-        url = "/faq/"
-        weight = 4
-      [[languages.zh-cn.menu.main]]
-        identifier = "tokens"
+        identifier = "projects"
         pre = ""
         post = ""
-        name = "代币信息"
-        url = "/tokens/"
+        name = "项目"
+        url = "/projects/"
         title = ""
-        weight = 5
+        weight = 3
       [[languages.zh-cn.menu.main]]
         identifier = "contact"
         pre = ""
@@ -215,11 +193,11 @@ enableEmoji = true
         name = "联系我们"
         url = "/contact/"
         title = ""
-        weight = 6
+        weight = 4
 
     [languages.zh-cn.params]
       # 网站描述
-      description = "Connect Plot Farmers to DeFi world"
+      description = "A rising network company serving the blockchain"
       # 网站关键词
       keywords = ["plot", "DeFi", "Chia", "BSC"]
       # 应用图标配置
@@ -248,9 +226,9 @@ enableEmoji = true
           # 主页显示头像的 URL
           avatarURL = "/images/big-logo.svg"
           # 主页显示的网站标题 (支持 HTML 格式)
-          title = ""
+          title = "Plot Network"
           # 主页显示的网站副标题
-          subtitle = "连接空间矿工与DeFi"
+          subtitle = "欢迎来到Plot Network <br> 一个正在冉冉升起的服务于区块链的网络公司"
           # 是否为副标题显示打字机动画
           typeit = true
           # 是否显示社交账号
@@ -282,7 +260,7 @@ enableEmoji = true
   fingerprint = ""
   # date format
   # 日期格式
-  dateFormat = "2006-01-02"
+  dateFormat = "2021-12-09*"
   #homeBackground = "/images/bg22.gif"
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
@@ -305,7 +283,7 @@ enableEmoji = true
       logo = "/images/big-logo.svg"
       # title name
       # 标题名称
-      name = "PlotBridge"
+      name = "Plot Network"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       #pre = "<i class='fa fa-plug fa-fw'></i>"
@@ -351,7 +329,7 @@ enableEmoji = true
     paginate = 20
     # date format (month and day)
     # 日期格式 (月和日)
-    dateFormat = "01-02"
+    dateFormat = "12-09"
     # amount of RSS pages
     # RSS 文章数目
     rss = 10
@@ -628,7 +606,7 @@ enableEmoji = true
     enable = false
     # Google Analytics
     [params.analytics.google]
-      id = ""
+      id = "294975398"
       # whether to anonymize IP
       # 是否匿名化用户 IP
       anonymizeIP = true
