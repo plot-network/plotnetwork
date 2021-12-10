@@ -2,7 +2,7 @@ baseURL = "https://plotbridge.onrender.com"
 defaultContentLanguage = "en"
 # theme
 # 主题
-theme = "loveit"
+theme = "LoveIt"
 
 # website title
 # 网站标题

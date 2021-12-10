@@ -1,0 +1,19 @@
+/** Layout **/
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  width: 100%;
+
+  main {
+    flex: 1 0 auto;
+    background: url('/images/1.jpg') ;
+    [theme=dark] & {
+        background: url('/images/2.jpg');
+    }
+
+    .container {
+      padding: 0 1rem;
+    }
+  }
+}
