@@ -7,7 +7,7 @@ slug = "projects"
 
 > ###  APP Website : https://app.plotbridge.io
 
-> ###  Project Website : https://plotberidge.io 
+> ###  Project Website : https://www.plotberidge.io 
 
 PlotBridge(PB)是连通时空证明类区块链网络（即常说的空间挖矿，如奇亚，韭菜）和成熟的智能区块链（如币安智能链）之间的桥梁。
 
