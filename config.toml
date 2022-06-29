@@ -50,7 +50,7 @@ enableEmoji = true
         pre = ""
         post = ""
         name = "App"
-        url = "https://app.plotbridge.net"
+        url = "https://app.plotbridge.io"
         title = ""
         weight = 2
       [[languages.en.menu.main]]
@@ -119,11 +119,11 @@ enableEmoji = true
           # Gravatar Email for preferred avatar in home page
           gravatarEmail = ""
           # URL of avatar shown in home page
-          avatarURL = "/images/big-logo.svg"
+          avatarURL = "/images/big-logo.png"
           # title shown in home page (HTML format is supported)
           title = "Plot Network"
           # subtitle shown in home page
-          subtitle = "wellcometo plot network <br> A rising network company serving the blockchain"
+          subtitle = "wellcome to plot network <br> A rising network company serving the blockchain"
           # whether to use typeit animation for subtitle
           typeit = true
           # whether to show social links
@@ -175,7 +175,7 @@ enableEmoji = true
         pre = ""
         post = ""
         name = "启动应用"
-        url = "https://app.plotbridge.net"
+        url = "https://app.plotbridge.io"
         title = ""
         weight = 2
       [[languages.zh-cn.menu.main]]
@@ -224,7 +224,7 @@ enableEmoji = true
           # Gravatar 邮箱，用于优先在主页显示的头像
           gravatarEmail = ""
           # 主页显示头像的 URL
-          avatarURL = "/images/big-logo.svg"
+          avatarURL = "/images/big-logo.png"
           # 主页显示的网站标题 (支持 HTML 格式)
           title = "Plot Network"
           # 主页显示的网站副标题
@@ -264,7 +264,7 @@ enableEmoji = true
   #homeBackground = "/images/bg22.gif"
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
-  images = ["/images/big-logo.svg"]
+  images = ["/images/big-logo.png"]
 
   # Header config
   # 页面头部导航栏配置
@@ -280,14 +280,14 @@ enableEmoji = true
     [params.header.title]
       # URL of the LOGO
       # LOGO 的 URL
-      logo = "/images/big-logo.svg"
+      logo = "/images/big-logo.png"
       # title name
       # 标题名称
       name = "Plot Network"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       #pre = "<i class='fa fa-plug fa-fw'></i>"
-      #pre = "<img alt='logo' src='/images/big-logo.svg' />"
+      #pre = "<img alt='logo' src='/images/big-logo.png' />"
       # you can add extra information after the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
       post = ""
